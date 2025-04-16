@@ -1,0 +1,7 @@
+a.exe
+
+#raylib
+raylibStuff/2dCamera.c
+raylibStuff/titleScreen.c
+raylibStuff/2dCameraPlatformer.c
+raylibStuff/mouseZoom.c
