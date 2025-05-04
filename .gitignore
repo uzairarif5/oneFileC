@@ -1,4 +1,4 @@
-a.exe
+*.exe
 
 #raylib
 raylibStuff/2dCamera.c
